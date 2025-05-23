@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Zachary_SymLib")(type "KiCad")(uri "${KIPRJMOD}/Zachary_SymLib.kicad_sym")(options "")(descr ""))
+  (lib (name "Marcelo_SymLib")(type "KiCad")(uri "${KIPRJMOD}/Marcelo_SymLib.kicad_sym")(options "")(descr ""))
+  (lib (name "Jaya_SymLib")(type "KiCad")(uri "${KIPRJMOD}/Jaya_SymLib.kicad_sym")(options "")(descr ""))
+)

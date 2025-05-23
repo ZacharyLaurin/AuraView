@@ -2,9 +2,145 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid bc06d563-4007-4b79-a2fd-3534d8dd4a5b)
+	(uuid "bc06d563-4007-4b79-a2fd-3534d8dd4a5b")
 	(paper "A4")
 	(lib_symbols)
+	(text "Veuillez seulement editer le contenu de votre sheet et de vos symbol/footprint libraries"
+		(exclude_from_sim no)
+		(at 160.02 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4dbcb8bf-a443-4005-b56e-0beb2258c37e")
+	)
+	(sheet
+		(at 152.4 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3cdecc20-97f1-4dfe-b413-6351bf5844b8")
+		(property "Sheetname" "Marcelo"
+			(at 152.4 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "marcelo.kicad_sch"
+			(at 152.4 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AuraView"
+				(path "/bc06d563-4007-4b79-a2fd-3534d8dd4a5b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4bf745a6-de54-4b83-90cc-a634239cb0a7")
+		(property "Sheetname" "Jaya"
+			(at 127 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "jaya.kicad_sch"
+			(at 127 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AuraView"
+				(path "/bc06d563-4007-4b79-a2fd-3534d8dd4a5b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97feaace-4fc6-45df-b98a-d0a0827a2d97")
+		(property "Sheetname" "Zachary"
+			(at 100.33 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zachary.kicad_sch"
+			(at 100.33 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AuraView"
+				(path "/bc06d563-4007-4b79-a2fd-3534d8dd4a5b"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
