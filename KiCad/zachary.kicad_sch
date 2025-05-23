@@ -5,4 +5,14 @@
 	(uuid "49a40c0f-7f4a-40d0-8012-a08954896ed6")
 	(paper "A4")
 	(lib_symbols)
+	(text "THIS IS A TEST"
+		(exclude_from_sim no)
+		(at 146.05 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "793dbce5-a894-48fb-bd72-9bbbec16c3e3")
+	)
 )
