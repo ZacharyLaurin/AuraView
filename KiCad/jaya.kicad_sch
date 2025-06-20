@@ -5,4 +5,138 @@
 	(uuid "7719e808-dda9-4d77-a5e4-7786d8058225")
 	(paper "A4")
 	(lib_symbols)
+	(text "JAYA"
+		(exclude_from_sim no)
+		(at 17.018 14.986 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "19995ffe-ba4f-4398-9ce4-f8726930ef25")
+	)
+	(text "Screen"
+		(exclude_from_sim no)
+		(at 137.16 45.212 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "466c87c1-8696-4ee8-80c1-b73c6504cf27")
+	)
+	(text "Hollow Bore Slip-Ring + Motor"
+		(exclude_from_sim no)
+		(at 139.954 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "51d4aaa9-9416-4e51-92a8-255b43df6ce7")
+	)
+	(text "Power Management + Motor Driver"
+		(exclude_from_sim no)
+		(at 143.764 153.162 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cf0c3f8e-17b6-478e-827a-db8ef371ed3d")
+	)
+	(text "MCU + Display Driver"
+		(exclude_from_sim no)
+		(at 137.414 86.868 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fa507427-070f-4f07-a392-b77d99615d4c")
+	)
+	(sheet
+		(at 127 62.23)
+		(size 23.622 20.574)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3f00543e-4cd5-4cc0-a257-eac1d7a0a540")
+		(property "Sheetname" "PCB"
+			(at 127 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCB.kicad_sch"
+			(at 127 83.3886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AuraView"
+				(path "/bc06d563-4007-4b79-a2fd-3534d8dd4a5b/4bf745a6-de54-4b83-90cc-a634239cb0a7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 128.27)
+		(size 23.368 21.336)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ece56836-95f8-4556-8942-9ecf98305ecb")
+		(property "Sheetname" "Base"
+			(at 127 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Base.kicad_sch"
+			(at 127 150.1906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AuraView"
+				(path "/bc06d563-4007-4b79-a2fd-3534d8dd4a5b/4bf745a6-de54-4b83-90cc-a634239cb0a7"
+					(page "5")
+				)
+			)
+		)
+	)
 )
